@@ -27,6 +27,7 @@ public class Prjava02 {
             System.out.println("Sistema operatiu: " + System.getProperty("os.name"));
             System.out.println("Versió OS: " + System.getProperty("os.version"));
             System.out.println("Afegint més codi a la branca00 del projecte prjavaCognom02");
+            System.out.println("Afegint codi a la branca01 del projecte prjavaCognom02");
         }
         catch (IOException e) {
 		System.out.println("Exception occurred");
